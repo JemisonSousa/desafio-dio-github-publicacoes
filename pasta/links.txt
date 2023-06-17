@@ -1,1 +1,3 @@
-links
+git status
+git add .
+git commit -m "texto"
